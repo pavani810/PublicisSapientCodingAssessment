@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fi8Re1nIFQI=",
+  "success": true,
+  "projectFilePath": "/workspaces/PublicisSapientCodingAssessment/WebApi/WebApi2/WebApi.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/9.0.11/microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.11/microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.11/microsoft.netcore.app.host.linux-x64.9.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

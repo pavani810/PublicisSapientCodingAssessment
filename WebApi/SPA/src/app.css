@@ -1,0 +1,5 @@
+
+.red { background: #ffdddd; }
+.yellow { background: #fff6bf; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #ddd; padding: 8px; }
